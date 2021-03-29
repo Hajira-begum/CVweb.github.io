@@ -16,7 +16,7 @@ html{
   /*background*/
   #background {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     overflow: hidden;
     position: relative;
     text-align: center;
