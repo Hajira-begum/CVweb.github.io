@@ -101,7 +101,7 @@ let Home = {
                   <div class="cardtext text-muted">
                       <h5>Bus Ticket Management System</h5>
                       <p><strong>Domain:</strong><small>PHP and HTML</small></p>
-                      <button class="btn text-light" ><a href="/#/project/1" style="text-decoration:none;color:white">More..</a></button>                  </div>
+                      <button class="btn text-light" ><a href="/CVweb.github.io/#/project/1" style="text-decoration:none;color:white">More..</a></button>                  </div>
               </article>
               <article>
                   <img src="images/insurance.png" alt="....." >
@@ -110,14 +110,14 @@ let Home = {
                       <p><strong>Domain:</strong><small>HTML,CSS and js</small></p>
                       
                       
-                      <button class="btn text-light" ><a href="/#/project/2" style="text-decoration:none;color:white">More..</a></button>                  </div>
+                      <button class="btn text-light" ><a href="/CVweb.github.io/#/project/2" style="text-decoration:none;color:white">More..</a></button>                  </div>
               </article>
               <article>
                   <img src="images/swmt.png" alt="....." >
                   <div class="cardtext text-muted">
                       <h5>Smart Waste Management System</h5>
                       <p><strong>Domain:</strong><small>IOT</small></p>
-                      <button class="btn text-light" ><a href="/#/project/3" style="text-decoration:none;color:white">More..</a></button>
+                      <button class="btn text-light" ><a href="/CVweb.github.io/#/project/3" style="text-decoration:none;color:white">More..</a></button>
                   </div>
               </article>
               
