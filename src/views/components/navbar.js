@@ -10,13 +10,13 @@ let Navbar = {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-center" href="/#/">Home</a>
+            <a class="nav-link text-center" href="/CVweb.github.io/#/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center active" href="/#/quali">Qualification</a>
+            <a class="nav-link text-center active" href="/CVweb.github.io/#/quali">Qualification</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center " aria-current="page" href="/#/details">Details</a>
+            <a class="nav-link text-center " aria-current="page" href="/CVweb.github.io/#/details">Details</a>
           </li>
           
         </ul>
@@ -37,13 +37,13 @@ let Navbar = {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-center" href="/#/">Home</a>
+            <a class="nav-link text-center" href="/CVweb.github.io/#/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center" href="/#/quali">Qualification</a>
+            <a class="nav-link text-center" href="/CVweb.github.io/#/quali">Qualification</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center active" aria-current="page" href="/#/details">Details</a>
+            <a class="nav-link text-center active" aria-current="page" href="/CVweb.github.io/#/details">Details</a>
           </li>
           
         </ul>
@@ -64,13 +64,13 @@ let Navbar = {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-center" aria-current="page" href="/#/">Home</a>
+            <a class="nav-link text-center" aria-current="page" href="/CVweb.github.io/#/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center" href="/#/quali">Qualification</a>
+            <a class="nav-link text-center" href="/CVweb.github.io/#/quali">Qualification</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-center" href="/#/details">Details</a>
+            <a class="nav-link text-center" href="/CVweb.github.io/#/details">Details</a>
           </li>
           
         </ul>
@@ -91,13 +91,13 @@ let Navbar = {
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link text-center active" aria-current="page" href="/#/">Home</a>
+                <a class="nav-link text-center active" aria-current="page" href="/CVweb.github.io/#/">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-center" href="/CVweb.github.io/#/quali">Qualification</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-center" href="/#/details">Details</a>
+                <a class="nav-link text-center" href="/CVweb.github.io/#/details">Details</a>
               </li>
               
             </ul>
