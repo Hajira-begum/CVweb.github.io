@@ -94,7 +94,7 @@ let Navbar = {
                 <a class="nav-link text-center active" aria-current="page" href="/#/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-center" href="/#/quali">Qualification</a>
+                <a class="nav-link text-center" href="#/quali">Qualification</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-center" href="/#/details">Details</a>
