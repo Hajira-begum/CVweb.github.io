@@ -1,7 +1,7 @@
 "use strict";
 
 import Home         from './views/pages/Home.js'
-import Quali         from './views/pages/Quali.js'
+import Quali         from './CVweb.github.io/src/views/pages/Quali.js'
 import Details         from './views/pages/Details.js'
 import showProject        from './views/pages/projectdetails.js'
 import Navbar       from './views/components/navbar.js'
