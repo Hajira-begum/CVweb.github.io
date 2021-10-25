@@ -2,7 +2,7 @@ let Home = {
     render : async () => {
         let view =  /*html*/`
         <section id="background" class="d-flex justify-content-center align-items-center">
-        <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+        <div class="container-fluid position-relative" data-aos="fade-up" data-aos-delay="100">
             <div class="row justify-content-center align-items-center text-center" style="margin-left: 5px;">
               <div class="g-col-2 col-sm-6 colimg">
                 <img  class="image" src="images/me2.jpg" alt="...." >
