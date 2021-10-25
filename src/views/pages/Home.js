@@ -4,10 +4,10 @@ let Home = {
         <section id="background" class="d-flex justify-content-center align-items-center">
         <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
             <div class="row justify-content-center align-items-center text-center" style="margin-left: 5px;">
-              <div class="col-md-2 col-sm-6 colimg">
+              <div class="g-col-2 col-sm-6 colimg">
                 <img  class="image" src="images/me2.jpg" alt="...." >
               </div>
-              <div class="col-md-4 col-sm-6" style="background-color: #fff;height: 250px;">
+              <div class="g-col-4 col-sm-6" style="background-color: #fff;height: 250px;">
                   <h2>Hello.</h2>
                   <p><strong style="text-decoration:underline;">Objective:</strong>To work in an environment that encourages me to succeed and grow professionally where i can utilize my skills
                     and knowledge approriately</p>
